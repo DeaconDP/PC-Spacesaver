@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BDAD18E4-5DE5-44D8-83B3-DFFD653DEEB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spacesaver", "src\Spacesaver\Spacesaver.csproj", "{BF179407-4F34-4B4D-9617-51049744C42D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF179407-4F34-4B4D-9617-51049744C42D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BF179407-4F34-4B4D-9617-51049744C42D}.Debug|Any CPU.Build.0 = Debug|x86
+		{BF179407-4F34-4B4D-9617-51049744C42D}.Release|Any CPU.ActiveCfg = Release|x86
+		{BF179407-4F34-4B4D-9617-51049744C42D}.Release|Any CPU.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF179407-4F34-4B4D-9617-51049744C42D} = {BDAD18E4-5DE5-44D8-83B3-DFFD653DEEB1}
+	EndGlobalSection
+EndGlobal

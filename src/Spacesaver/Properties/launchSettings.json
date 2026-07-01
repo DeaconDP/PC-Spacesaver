@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Spacesaver (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Spacesaver (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
